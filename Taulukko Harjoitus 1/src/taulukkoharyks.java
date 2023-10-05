@@ -4,7 +4,7 @@ public class taulukkoharyks {
 
 	public static void main(String[] args) {
 		
-		String[] furniture = {"Table", "Sofa", "Shelf", "Painting"};
+		String[] furniture = {"Table", "Chair", "Shelf", "Painting"};
 		
 		
 		
